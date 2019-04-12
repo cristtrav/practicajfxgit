@@ -57,7 +57,7 @@ public class FXMLController implements Initializable {
     @FXML
     private void onActionBtn5(ActionEvent event) {
         Alert al=new Alert(Alert.AlertType.CONFIRMATION);
-        al.setContentText("Confirmado por Alejandra González");
+        al.setContentText("Confirmado Alejandra González");
         al.show();
     }
 
