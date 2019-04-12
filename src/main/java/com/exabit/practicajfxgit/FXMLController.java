@@ -41,8 +41,8 @@ public class FXMLController implements Initializable {
     @FXML
     private void onActionBtn2(ActionEvent event) {
         Alert al = new Alert(AlertType.ERROR);
-        al.setContentText("Boton ocupado "
-                + "TANIA GARAY");
+        al.setContentText(" let's drink  "
+                + "Yo no tomo ");
         al.show();
     }
 
