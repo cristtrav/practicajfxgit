@@ -60,10 +60,16 @@ public class FXMLController implements Initializable {
 
     @FXML
     private void onActionBtn6(ActionEvent event) {
+        Alert a=new Alert(Alert.AlertType.INFORMATION);
+        a.setContentText("Hola Gente.???");
+        a.show();
     }
 
     @FXML
     private void onActionBtn7(ActionEvent event) {
+        Alert a= new Alert(Alert.AlertType.INFORMATION);
+        a.setContentText("Hecho por Elton Hernan Rodriguez");
+        a.show();
     }
 
     @FXML

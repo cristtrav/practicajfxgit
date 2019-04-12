@@ -13,8 +13,10 @@
             <Button fx:id="btn3" mnemonicParsing="false" onAction="#onActionBtn3" text="Button" />
             <Button fx:id="btn4" mnemonicParsing="false" onAction="#onActionBtn4" text="Button" />
             <Button fx:id="btn5" mnemonicParsing="false" onAction="#onActionBtn5" text="Button" />
-            <Button fx:id="btn6" mnemonicParsing="false" onAction="#onActionBtn6" text="Button" />
-            <Button fx:id="btn7" mnemonicParsing="false" onAction="#onActionBtn7" text="Button" />
+            <Button fx:id="btn6" mnemonicParsing="false" onAction="#onActionBtn6" text="pablo edilson" textFill="#3eee09" />
+            <Button fx:id="btn7" mnemonicParsing="false" onAction="#onActionBtn7" prefHeight="26.0" prefWidth="83.0" text="Click" />
+           
+            
          </children>
       </VBox>
       <Button fx:id="btnTest" layoutX="411.0" layoutY="298.0" mnemonicParsing="false" onAction="#onActionBtnTest" text="Button" />
