@@ -14,7 +14,7 @@
             <Button fx:id="btn4" mnemonicParsing="false" onAction="#onActionBtn4" text="Button" />
             <Button fx:id="btn5" mnemonicParsing="false" onAction="#onActionBtn5" text="Alejandra Gonzalez" textFill="#c31b1b">
              </Button>
-            <Button fx:id="btn6" mnemonicParsing="false" onAction="#onActionBtn6" text="Button" />
+            <Button fx:id="btn6" mnemonicParsing="false" onAction="#onActionBtn6" text="PABLO EDILSON" textFill="#0cf54e" />
             <Button fx:id="btn7" mnemonicParsing="false" onAction="#onActionBtn7" prefHeight="26.0" prefWidth="114.0" style="-fx-background-color: silver;" text="Elton Hernan" textFill="#308039">
              </Button>
        
