@@ -36,6 +36,9 @@ public class FXMLController implements Initializable {
 
     @FXML
     private void onActionBtn1(ActionEvent event) {
+        Alert al=new Alert(Alert.AlertType.INFORMATION);
+        al.setContentText("Isaias Marmolejo");
+        al.show();
     }
 
     @FXML
