@@ -4,7 +4,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.VBox?>
 
-<AnchorPane id="AnchorPane" prefHeight="340.0" prefWidth="485.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="com.exabit.practicajfxgit.FXMLController">
+<AnchorPane id="AnchorPane" prefHeight="340.0" prefWidth="485.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.exabit.practicajfxgit.FXMLController">
    <children>
       <VBox layoutX="14.0" layoutY="14.0" prefHeight="200.0" prefWidth="333.0" spacing="5.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="14.0">
          <children>
@@ -12,7 +12,7 @@
             <Button fx:id="btn2" mnemonicParsing="false" onAction="#onActionBtn2" text="Button" />
             <Button fx:id="btn3" mnemonicParsing="false" onAction="#onActionBtn3" text="Button" />
             <Button fx:id="btn4" mnemonicParsing="false" onAction="#onActionBtn4" text="Button" />
-            <Button fx:id="btn5" mnemonicParsing="false" onAction="#onActionBtn5" text="Button" />
+            <Button fx:id="btn5" mnemonicParsing="false" onAction="#onActionBtn5" text="lopez" />
             <Button fx:id="btn6" mnemonicParsing="false" onAction="#onActionBtn6" text="Button" />
             <Button fx:id="btn7" mnemonicParsing="false" onAction="#onActionBtn7" text="Button" />
          </children>
