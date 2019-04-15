@@ -55,10 +55,11 @@ public class FXMLController implements Initializable {
 
     @FXML
     private void onActionBtn4(ActionEvent event) {
-        Alert a= new Alert(Alert.AlertType.INFORMATION);
-        a.setContentText("Informado por Yessica Sosa");
-        a.show();
+          Alert a=new Alert(Alert.AlertType.INFORMATION);
+       a.setContentText("Este boton fue hecho por forastero");
+       a.show();
     }
+    
 
     @FXML
     private void onActionBtn5(ActionEvent event) {
